@@ -1,7 +1,7 @@
 /*
  * Splash Screen for Software Engineering (CSCS3513) (TEAM 4)
  * Date: 9/13/2022
- * Name: Kaden Nebeker
+ * Team 4
  * 
  * Splash screen for the first screen of the laser tag project.
 */
