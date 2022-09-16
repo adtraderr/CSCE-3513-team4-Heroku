@@ -35,19 +35,4 @@ public class SplashScreen extends JFrame
     {
         this.setVisible(false);
     }
-
-    public static void main(String[] args) // This code will go in the main file, just placed here until main created.
-    {
-        SplashScreen splash = new SplashScreen();
-        splash.showSplash();
-        try
-        {
-            Thread.sleep(3000); // wait for 3 seconds
-        } catch (Exception e) {
-            e.printStackTrace();
-            System.exit(1);
-        }
-        splash.hideSplash();
-        System.exit(1);
-    }
 }
