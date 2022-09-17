@@ -6,9 +6,9 @@
  * Splash screen for the first screen of the laser tag project.
 */
 
+import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import java.awt.Toolkit;
 import java.awt.Color;
 
 public class SplashScreen extends JFrame
