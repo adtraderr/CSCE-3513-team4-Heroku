@@ -21,7 +21,7 @@ public class SplashScreen extends JFrame
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.getContentPane().setBackground(Color.BLACK);
         
-        ImageIcon splash_logo = new ImageIcon("SplashScreenLogo_Update.png"); // load logo image from file
+        ImageIcon splash_logo = new ImageIcon("SplashScreenLogo_Resize.png"); // load logo image from file
         JLabel label = new JLabel(splash_logo); // create label to add logo to
         this.getContentPane().add(label); // add label to the content pane
     }
