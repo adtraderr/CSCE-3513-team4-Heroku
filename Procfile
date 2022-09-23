@@ -1,1 +1,1 @@
-web: bundle exec rails server -p $5000
+web: java -jar target/csce3513team4-1.0.0.jar
